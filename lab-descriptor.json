@@ -8,7 +8,7 @@
     "lab_display_name": "Advanced Mechanics Virtual Lab",
     "phase": 2,
     "collegeName": "AMRT",
-    "baseUrl": "amvl-amrt.vlabs.ac.in",
+    "baseUrl": "am-amrt.vlabs.ac.in",
     "introduction": "The Advanced Mechanics Virtual Lab in the Physical Sciences discipline provides an immersive, interactive platform for studying the mechanical properties of materials and the dynamics of oscillatory systems. This virtual environment allows learners to conduct precision-based experiments related to elasticity, torsion, and pendulum motion—without the limitations of physical equipment. Through simulated instrumentation and detailed data analysis tools, students gain practical insights into concepts such as Young’s modulus, rigidity modulus, moment of inertia, and simple harmonic motion. The lab bridges the gap between theory and experimentation, fostering a deeper understanding of advanced mechanics through safe, repeatable, and accessible virtual experiments.",
     "experiments": [
         {
@@ -19,14 +19,14 @@
             "deploy": true
         },
         {
-            "name": "Young's Modulus-NonUniform Bending",
+            "name": "Young's Modulus NonUniform Bending",
             "short-name": "youngs-modulus-nonuniform",
             "repo": "https://github.com/virtual-labs/exp-youngs-modulus-nonuniform-amrt",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "Compound Pendulum- Symmetric",
+            "name": "Compound Pendulum Symmetric",
             "short-name": "compound-pendulum-symmetric",
             "repo": "https://github.com/virtual-labs/exp-compound-pendulum-symmetric-amrt",
             "tag": "v1.0.0",
@@ -40,7 +40,7 @@
             "deploy": true
         },
         {
-            "name": "Young's Modulus-Uniform Bending",
+            "name": "Young's Modulus Uniform Bending",
             "short-name": "youngs-modulus-uniform",
             "repo": "https://github.com/virtual-labs/exp-youngs-modulus-uniform-amrt",
             "tag": "v1.0.0",
@@ -54,7 +54,7 @@
             "deploy": true
         },
         {
-            "name": "Rigidity Modulus -Static Torsion",
+            "name": "Rigidity Modulus Static Torsion",
             "short-name": "rigidity-modulus",
             "repo": "https://github.com/virtual-labs/exp-rigidity-modulus-amrt",
             "tag": "v1.0.0",
