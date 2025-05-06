@@ -57,7 +57,7 @@
             "name": "Rigidity Modulus Static Torsion",
             "short-name": "rigidity-modulus",
             "repo": "https://github.com/virtual-labs/exp-rigidity-modulus-amrt",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         }
     ],
