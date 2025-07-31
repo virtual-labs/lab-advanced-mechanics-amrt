@@ -15,49 +15,49 @@
             "name": "Rigidity Modulus of The Suspension Wire of A Torsion Pendulum",
             "short-name": "torsion-pendulum",
             "repo": "https://github.com/virtual-labs/exp-torsion-pendulum-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Young's Modulus NonUniform Bending",
             "short-name": "youngs-modulus-nonuniform",
             "repo": "https://github.com/virtual-labs/exp-youngs-modulus-nonuniform-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Compound Pendulum Symmetric",
             "short-name": "compound-pendulum-symmetric",
             "repo": "https://github.com/virtual-labs/exp-compound-pendulum-symmetric-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Kater's pendulum",
             "short-name": "katers-pendulum",
             "repo": "https://github.com/virtual-labs/exp-katers-pendulum-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Young's Modulus Uniform Bending",
             "short-name": "youngs-modulus-uniform",
             "repo": "https://github.com/virtual-labs/exp-youngs-modulus-uniform-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Moment of inertia of a Torsion Pendulum",
             "short-name": "inertia-torsion-pendulum",
             "repo": "https://github.com/virtual-labs/exp-inertia-torsion-pendulum-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         },
         {
             "name": "Rigidity Modulus Static Torsion",
             "short-name": "rigidity-modulus",
             "repo": "https://github.com/virtual-labs/exp-rigidity-modulus-amrt",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         }
     ],
