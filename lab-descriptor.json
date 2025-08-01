@@ -15,7 +15,7 @@
             "name": "Rigidity Modulus of The Suspension Wire of A Torsion Pendulum",
             "short-name": "torsion-pendulum",
             "repo": "https://github.com/virtual-labs/exp-torsion-pendulum-amrt",
-            "tag": "v1.0.2",
+            "tag": "v1.0.3",
             "deploy": true
         },
         {
